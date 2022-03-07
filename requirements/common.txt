@@ -1,0 +1,2 @@
+# contains requirements common to all environments
+django>=4.0.0
